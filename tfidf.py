@@ -8,9 +8,6 @@ import nltk
 import redis
 
 
-# TODO(alexis): use a better tokenizer.
-# TODO(alexis): use stemming.
-# TODO(alexis): case insensitivity.
 # TODO(alexis): better cli.
 # TODO(alexis): search not only files.
 # TODO(alexis): use celery.
